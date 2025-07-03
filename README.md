@@ -279,7 +279,15 @@ Created new calculated columns to support deeper analysis:
 - The **Combined Score metric** balances rating and review volume for ranking top products more fairly.
 - A total of **114 duplicate listings** were identified and cleaned using **Power Query**. This to enhance data accuracy and avoid inflated metrics.
 
- 
+ ## DASHBOARD HIGHLIGHTS 
+- Three interactive Excel Dashboards designed to present summary insights, namly:
+  - Product Overview
+  - Rating & Review Insights
+  - Pricing and Discount Insight.
+- Interactive charts with slicers for:
+  - Category
+  - Rating Bucket
+  - Discount Percentage Bucket
 
 
 
