@@ -268,4 +268,18 @@ Created new calculated columns to support deeper analysis:
 - **Formula Used**:
   - `=[@Rating] * [@[Rating Count]]`
 
+## KEY INSIGHT 
+- The average discount across all categories is **47.23%**. This indicate that Amazon products are heavily discounted.
+- Products with **lower ratings (2.0–2.9)** receive the **highest average discounts (64.5%)**. This might be a strategy to boost sales.
+- **Electronics** dominate with the highest number of listings **(490 products)** and reviews **(14.2 million reviews)**. Also the **Home & Kitchen** category is heavily featured. This high review volumes often indicate high sales and customer trust.
+- Most products are priced **above ₹500**, showing a mid-to-premium price focus.
+- **Electronics** category leads with potential revenue of over ₹91 billion, far ahead of others. This indicates a lucrative market for sellers and a potential area for deeper investment or product expansion.
+- Categories like **Car & Motorbike** and **Musical Instruments** are underrepresented (1–2 products only), which may suggest that these niche markets have low seller representation on Amazon
+- **Electronics** and **Home & Kitchen** dominate in both listings and review counts, this probably indicate a narrow sales focus or market saturation in these niches.
+- The **Combined Score metric** balances rating and review volume for ranking top products more fairly.
+- A total of **114 duplicate listings** were identified and cleaned using **Power Query**. This to enhance data accuracy and avoid inflated metrics.
+
+ 
+
+
 
