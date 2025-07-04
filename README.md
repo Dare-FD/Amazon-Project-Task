@@ -205,8 +205,8 @@ Created new calculated columns to support deeper analysis:
   - `Potential Revenue = Actual Price * Rating_Count`
 
 ### Q10. Number of unique products per price range  
-**Answer**: 
-  - >  ₹500: 1168.00 products
+**Answer**:
+  - >₹500: 1,168.00 products
   - ₹200 -  ₹500: 149.00 products
   - < ₹200: 34.00 products
 - **Method**:
