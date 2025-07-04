@@ -288,7 +288,17 @@ Created new calculated columns to support deeper analysis:
   - Main Category
   - Rating Group
   - Reviews under 1000
-  - Price Range 
+  - Price Range
+
+## FILES INCLUDED
+**Claened Amazon Case Study.xlsx**
+
+## Dashboards
+## Amazon Products Overview Dashoard
+![Amazon Product Overview Dashboard](Amazon%20Product#20Overview%20Dashboard.png)
+
+
+
 
 
 
