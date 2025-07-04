@@ -225,7 +225,7 @@ Created new calculated columns to support deeper analysis:
   - Helper column + Pivot Table
 - **Pivot Fields**:
   - Rows: `Rating group`
-  - Values: `Discount decimal`
+  - Values: `Discount decimal` (Average)
 
 ### Q12. Products with fewer than 1,000 reviews  
 **Answer**:
@@ -281,13 +281,14 @@ Created new calculated columns to support deeper analysis:
 
  ## DASHBOARD HIGHLIGHTS 
 - Three interactive Excel Dashboards designed to present summary insights, namly:
-  - Product Overview
-  - Rating & Review Insights
-  - Pricing and Discount Insight.
+  - Amazon Products Overview
+  - Amazon Product Ratings & Reviews Insights
+  - Amazon Product Pricing and Discount Insights.
 - Interactive charts with slicers for:
-  - Category
-  - Rating Bucket
-  - Discount Percentage Bucket
+  - Main Category
+  - Rating Group
+  - Reviews under 1000
+  - Price Range 
 
 
 
