@@ -295,7 +295,7 @@ Created new calculated columns to support deeper analysis:
 
 ## Dashboards
 ## Amazon Products Overview Dashoard
-![Amazon Product Overview Dashboard](Amazon%20Product#20Overview%20Dashboard.png)
+![Amazon Products Overview Dashboard](Amazon%20products%20overview%20dashboard.png)
 
 
 
