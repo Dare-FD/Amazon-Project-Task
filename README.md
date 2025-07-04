@@ -206,7 +206,7 @@ Created new calculated columns to support deeper analysis:
 
 ### Q10. Number of unique products per price range  
 **Answer**:
-  - >₹500: 1,168.00 products
+  - > ₹500: 1,168.00 products
   - ₹200 -  ₹500: 149.00 products
   - < ₹200: 34.00 products
 - **Method**:
@@ -291,8 +291,8 @@ Created new calculated columns to support deeper analysis:
   - Price Range
 
 ## FILES INCLUDED
-**Claened Amazon Case Study.xlsx**
-
+### Amazon Case Study
+[Download Cleaned Amazon Dataset](Cleaned%20Amazon%20case%20study.xlsx)
 
 ### Amazon Products Overview Dashoard
 ![Amazon Products Overview Dashboard](Amazon%20products%20overview%20dashboard.png)
