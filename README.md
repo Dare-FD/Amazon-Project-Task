@@ -293,9 +293,13 @@ Created new calculated columns to support deeper analysis:
 ## FILES INCLUDED
 **Claened Amazon Case Study.xlsx**
 
-## Dashboards
-## Amazon Products Overview Dashoard
+
+### Amazon Products Overview Dashoard
 ![Amazon Products Overview Dashboard](Amazon%20products%20overview%20dashboard.png)
+### Amazon Product Ratings & Reviews Insights
+![Amazon Product Ratings & Reviews Insights](Amazon%20product%20ratings%20%26%20reviews%20insights%20dashboard.png)
+### Amazon Product Pricing & Discount Insights
+![Amazon Product Pricing & Discount Insights](Amazon%20products%20pricing%20%26%20rating%20dashboard.png)
 
 
 
